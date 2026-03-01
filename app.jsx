@@ -3,6 +3,7 @@ import Student from "./student";
 function App() {
   return (
     <Student name="ZAMBA PHILIP" course="BSIT" year="2026" />
+    <student name="Ainerugaba Joseph Clancy" course="BSIT" year="2026" />
   );
 }
 
@@ -20,4 +21,5 @@ function App() {
     </div>
   );
 }
+
 export default App;
