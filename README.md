@@ -1,2 +1,2 @@
 # react-APP
-group project forming an app
+group project forming a react app
